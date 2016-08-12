@@ -1,8 +1,7 @@
 # Site settings
-title: Solo, a Jekyll Theme
-tag_text: Solo
-description: Solo is a Jekyll theme that supports single-page websites only, but supports them well. Yes, it’s responsive.
-
+title: SP Cup 2016
+tag_text: SP Cup
+description: Our team Resonance 'Resonance_1011' declared as Champion in SP Cup 2016
 # Build settings
 markdown: kramdown
 exclude: ["README.md"]
