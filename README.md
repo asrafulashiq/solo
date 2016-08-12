@@ -12,7 +12,7 @@ Bangladesh
 Undergraduate students:
 
 1. Sayeed Shafayet Chowdhury
-1. #####Ashraful Islam
+1. Ashraful Islam
 1. Md Billal Hossain
 1. Jayanta Dey
 1. Rakib Hyder
@@ -22,6 +22,10 @@ Undergraduate students:
 1. Tauhiduzzaman Khan Himel
 1. Uday Saha
 
+
+![alt text][logo]
+
+[logo]: http://www.icassp2016.org/images/SPCup.jpg "Sp Cup 2016 Winners"
 
 
 SP Cup 2016 has engaged participants from nearly 30 countries. 334 students from 23 countries formed 52 teams registered for the competition; among them, more than 200 students in 33 teams turned in the required submissions by the open competition deadline in January 2016
