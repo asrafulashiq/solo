@@ -22,3 +22,7 @@ Undergraduate students:
 1. Tauhiduzzaman Khan Himel
 1. Uday Saha
 
+
+
+SP Cup 2016 has engaged participants from nearly 30 countries. 334 students from 23 countries formed 52 teams registered for the competition; among them, more than 200 students in 33 teams turned in the required submissions by the open competition deadline in January 2016
+
