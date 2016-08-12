@@ -2,14 +2,55 @@
 layout: default
 ---
 
-[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+[IEEE Signal Processing Cup 2016 Global Competition](http://www.icassp2016.org/SPCup.asp) held its final competition on 20 March 2016 in Shanghai, China, during the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
 
-<iframe src="https://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
-  allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
 
-Looking for a more standard Jekyll theme? Try out [Shiori](http://github.com/ellekasai/shiori) theme, which has Bootstrap integration.
 
-## Solo is useful if...
+## Grand Prize
+
+### Bangladesh University of Engineering & Technology
+Bangladesh
+
+#### Supervisor: Mohammad Ariful Haque
+
+
+Undergraduate students:
+
+1. Sayeed Shafayet Chowdhury
+1. ##### Ashraful Islam
+1. Md Billal Hossain
+1. Jayanta Dey
+1. Rakib Hyder
+1. Md. Samzid bin Hafiz
+1. Ratul Khan
+1. Munif Ishad Mujib
+1. Tauhiduzzaman Khan Himel
+1. Uday Saha
+
+## Photo:
+
+#### Me Giving Presentation In Sp Cup 2016:
+
+![alt text][logo]
+
+[logo]: http://www.icassp2016.org/Albums/SPCup/slides/IMG_7107.JPG "Me "
+
+
+#### Sp Cup 2016 Winners:
+
+![alt text][logo]
+
+[logo]: http://www.icassp2016.org/images/SPCup.jpg "Sp Cup 2016 Winners"
+
+
+
+#### Team Resonance:
+
+![alt text][logo]
+
+[logo]: http://www.icassp2016.org/Albums/SPCup/slides/IMG_7118.JPG "Team Resonance"
+
+
 
 * You want to create an "about me" page from a single markdown file and host it under a custom domain name.
 * You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).
