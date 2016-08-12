@@ -38,6 +38,8 @@ Exploring Power Signatures for Location Forensics of Media Recordings. (details 
 
 Our solution to the problem can be found [here](./Report.pdf)
 
+Final app and code are in this github [link](https://github.com/asrafulashiq/spcup_2016/tree/gh-pages/final%20app)
+
 
 ## Photo:
 
