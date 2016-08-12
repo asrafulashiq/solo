@@ -1,0 +1,150 @@
+C:\Users\User\Desktop\Practice_dataset\Practice_1.wav :
+ grid - A
+confidence: 99.91%
+C:\Users\User\Desktop\Practice_dataset\Practice_2.wav :
+ grid - H
+confidence: 90.44%
+C:\Users\User\Desktop\Practice_dataset\Practice_3.wav :
+ grid - C
+confidence: 79.32%
+C:\Users\User\Desktop\Practice_dataset\Practice_4.wav :
+ grid - F
+confidence: 62.98%
+C:\Users\User\Desktop\Practice_dataset\Practice_5.wav :
+ grid - F
+confidence: 95.62%
+C:\Users\User\Desktop\Practice_dataset\Practice_6.wav :
+ grid - B
+confidence: 100.00%
+C:\Users\User\Desktop\Practice_dataset\Practice_7.wav :
+ grid - G
+confidence: 24.68%
+C:\Users\User\Desktop\Practice_dataset\Practice_8.wav :
+ grid - I
+confidence: 99.40%
+C:\Users\User\Desktop\Practice_dataset\Practice_9.wav :
+ grid - N
+confidence: 100.00%
+C:\Users\User\Desktop\Practice_dataset\Practice_10.wav :
+ grid - D
+confidence: 97.92%
+C:\Users\User\Desktop\Practice_dataset\Practice_11.wav :
+ grid - A
+confidence: 99.75%
+C:\Users\User\Desktop\Practice_dataset\Practice_12.wav :
+ grid - F
+confidence: 92.14%
+C:\Users\User\Desktop\Practice_dataset\Practice_13.wav :
+ grid - N
+confidence: 33.33%
+C:\Users\User\Desktop\Practice_dataset\Practice_14.wav :
+ grid - D
+confidence: 93.86%
+C:\Users\User\Desktop\Practice_dataset\Practice_15.wav :
+ grid - C
+confidence: 98.63%
+C:\Users\User\Desktop\Practice_dataset\Practice_16.wav :
+ grid - I
+confidence: 99.99%
+C:\Users\User\Desktop\Practice_dataset\Practice_17.wav :
+ grid - N
+confidence: 33.33%
+C:\Users\User\Desktop\Practice_dataset\Practice_18.wav :
+ grid - N
+confidence: 55.56%
+C:\Users\User\Desktop\Practice_dataset\Practice_19.wav :
+ grid - A
+confidence: 99.95%
+C:\Users\User\Desktop\Practice_dataset\Practice_20.wav :
+ grid - E
+confidence: 82.92%
+C:\Users\User\Desktop\Practice_dataset\Practice_21.wav :
+ grid - H
+confidence: 55.85%
+C:\Users\User\Desktop\Practice_dataset\Practice_22.wav :
+ grid - B
+confidence: 93.34%
+C:\Users\User\Desktop\Practice_dataset\Practice_23.wav :
+ grid - B
+confidence: 97.21%
+C:\Users\User\Desktop\Practice_dataset\Practice_24.wav :
+ grid - A
+confidence: 84.75%
+C:\Users\User\Desktop\Practice_dataset\Practice_25.wav :
+ grid - D
+confidence: 73.33%
+C:\Users\User\Desktop\Practice_dataset\Practice_26.wav :
+ grid - C
+confidence: 69.61%
+C:\Users\User\Desktop\Practice_dataset\Practice_27.wav :
+ grid - G
+confidence: 75.79%
+C:\Users\User\Desktop\Practice_dataset\Practice_28.wav :
+ grid - H
+confidence: 97.79%
+C:\Users\User\Desktop\Practice_dataset\Practice_29.wav :
+ grid - G
+confidence: 47.98%
+C:\Users\User\Desktop\Practice_dataset\Practice_30.wav :
+ grid - B
+confidence: 95.95%
+C:\Users\User\Desktop\Practice_dataset\Practice_31.wav :
+ grid - D
+confidence: 99.45%
+C:\Users\User\Desktop\Practice_dataset\Practice_32.wav :
+ grid - D
+confidence: 70.92%
+C:\Users\User\Desktop\Practice_dataset\Practice_33.wav :
+ grid - C
+confidence: 26.28%
+C:\Users\User\Desktop\Practice_dataset\Practice_34.wav :
+ grid - H
+confidence: 72.50%
+C:\Users\User\Desktop\Practice_dataset\Practice_35.wav :
+ grid - G
+confidence: 90.24%
+C:\Users\User\Desktop\Practice_dataset\Practice_36.wav :
+ grid - E
+confidence: 80.66%
+C:\Users\User\Desktop\Practice_dataset\Practice_37.wav :
+ grid - A
+confidence: 89.29%
+C:\Users\User\Desktop\Practice_dataset\Practice_38.wav :
+ grid - I
+confidence: 73.64%
+C:\Users\User\Desktop\Practice_dataset\Practice_39.wav :
+ grid - H
+confidence: 94.56%
+C:\Users\User\Desktop\Practice_dataset\Practice_40.wav :
+ grid - I
+confidence: 99.98%
+C:\Users\User\Desktop\Practice_dataset\Practice_41.wav :
+ grid - E
+confidence: 32.17%
+C:\Users\User\Desktop\Practice_dataset\Practice_42.wav :
+ grid - H
+confidence: 79.26%
+C:\Users\User\Desktop\Practice_dataset\Practice_43.wav :
+ grid - E
+confidence: 94.17%
+C:\Users\User\Desktop\Practice_dataset\Practice_44.wav :
+ grid - C
+confidence: 91.57%
+C:\Users\User\Desktop\Practice_dataset\Practice_45.wav :
+ grid - F
+confidence: 85.02%
+C:\Users\User\Desktop\Practice_dataset\Practice_46.wav :
+ grid - F
+confidence: 77.35%
+C:\Users\User\Desktop\Practice_dataset\Practice_47.wav :
+ grid - N
+confidence: 44.44%
+C:\Users\User\Desktop\Practice_dataset\Practice_48.wav :
+ grid - G
+confidence: 89.04%
+C:\Users\User\Desktop\Practice_dataset\Practice_49.wav :
+ grid - E
+confidence: 68.08%
+C:\Users\User\Desktop\Practice_dataset\Practice_50.wav :
+ grid - I
+confidence: 41.37%

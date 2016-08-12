@@ -13,7 +13,7 @@ layout: default
 ### Bangladesh University of Engineering & Technology
 Bangladesh
 
-Supervisor: Mohammad Ariful Haque
+Supervisor: [Mohammad Ariful Haque](http://teacher.buet.ac.bd/arifulhoque/)
 
 
 Undergraduate students:
