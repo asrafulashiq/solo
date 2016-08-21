@@ -8,18 +8,19 @@ layout: default
 [IEEE Signal Processing Cup 2016 Global Competition](http://www.icassp2016.org/SPCup.asp) held its final competition on 20 March 2016 in Shanghai, China, during the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
 
 
-## Grand Prize
+## Grand Prize ##
 
-### Bangladesh University of Engineering & Technology
+### Team : Resonance_1011 ###
+Bangladesh University of Engineering & Technology, 
 Bangladesh
 
-Supervisor: [Mohammad Ariful Haque](http://teacher.buet.ac.bd/arifulhoque/)
+**Supervisor**: [Mohammad Ariful Haque](http://teacher.buet.ac.bd/arifulhoque/)
 
 
-Undergraduate students:
+**Undergraduate students:**
 
 1. Sayeed Shafayet Chowdhury
-1. ##### Ashraful Islam
+1. **Ashraful Islam**
 1. Md Billal Hossain
 1. Jayanta Dey
 1. Rakib Hyder
