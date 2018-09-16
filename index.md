@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-**This competition was a memorable experience for me. I have learnt how to work with a team specially from this competition. We had to do a huge task encompassing spectrum estimation and machine learning. I particularly worked on building a machine learning system . From this competition , for the first time I had to learn Neural Network, SVM, Naive Bayes. Our final system was built on SVM , with our own pole-estimation approach. The whole team worked so hard to make our work fruitful. We were declared as the champion team in this competition.**
+**This competition was a memorable experience for me. I have learnt how to work with a team specially from this competition. We had to do a huge task encompassing spectrum estimation and machine learning. I particularly worked on building a machine learning system. Our final system was built on SVM, with our own pole-estimation approach. The whole team worked very hard to make our work fruitful. We were declared as the champion team in this competition.**
 
 [IEEE Signal Processing Cup 2016 Global Competition](http://www.icassp2016.org/SPCup.asp) held its final competition on 20 March 2016 in Shanghai, China, during the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
 
